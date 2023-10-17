@@ -1,2 +1,5 @@
-# rifa-do-povo-mobile
-Repositório para o app mobile do Rifa do Povo.
+# React Native Template by Saulo Joab
+Best way to quickstart professional React Native apps.
+
+[Repo](https://github.com/saulojoab/react-native-template)
+[Made by Saulo Joab](https://github.com/saulojoab)
